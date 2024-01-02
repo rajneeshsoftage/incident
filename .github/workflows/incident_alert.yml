@@ -1,0 +1,4 @@
+name: Incident Alert
+on:
+  issues:
+    types: [opened]
